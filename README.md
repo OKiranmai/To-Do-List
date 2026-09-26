@@ -17,13 +17,14 @@ A simple console-based To-Do List application developed using Java for managing 
 
 ## Project Structure
 
-
+```text
 To-Do-List/
 │
 ├── src/
 │   └── Main.java
 │
-└── README.md 
+└── README.md
+```
 
 ## Project Link
 

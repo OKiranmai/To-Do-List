@@ -1,2 +1,26 @@
-# To-Do-List
-A simple Java-based To-Do List application designed to manage daily tasks. It allows users to add, view, complete, and delete tasks through a simple console interface
+# To-Do List Application – Java
+
+A simple console-based To-Do List application developed using Java for managing daily tasks.
+
+## Features
+
+- Add new tasks
+- View all tasks
+- Mark tasks as completed
+- Delete tasks
+- Exit the application
+
+## Technologies Used
+
+- Java
+- Java Collections
+
+## Project Structure
+
+```text
+To-Do-List/
+│
+├── src/
+│   └── Main.java
+│
+└── README.md
